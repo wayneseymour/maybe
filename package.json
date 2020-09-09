@@ -1,5 +1,5 @@
 {
-  "name": "maybe",
+  "name": "monoid-res",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,7 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wayneseymour/maybe.git"
-  },
-  "keywords": ["fp", "functional programming", "maybe", "maybe monad", "adt"],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wayneseymour/maybe/issues"
-  },
-  "homepage": "https://github.com/wayneseymour/maybe#readme"
+  "keywords": ["fp", "functional programming", "monoids", "adt"],
+  "author": "Tre' Seymour",
+  "license": "ISC"
 }
